@@ -39,6 +39,7 @@ func TestDetect(t *testing.T) {
 		"コンニチハ":                              {Jpn, _HiraganaKatakana, 1},
 		"ﾀﾅｶ ﾀﾛｳ":                            {Jpn, _HiraganaKatakana, 1},
 		"どうもありがとう":                           {Jpn, _HiraganaKatakana, 1},
+		"қалаларының басым бөлігінде": {Kaz, unicode.Cyrillic, 1},
 	}
 
 	for key, value := range tests {

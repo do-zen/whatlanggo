@@ -92,3 +92,4 @@ and [documentation](https://godoc.org/github.com/abadojack/whatlanggo).
 | Shona          | sna       | Sna |
 | Uyghur         | uig       | Uig |
 | Africaans      | afr       | Afr |
+| Kazakh         | kaz       | Kaz |
