@@ -43,9 +43,6 @@ func getTrigramsWithPositions(text string) map[string]int {
 		trigramsWithPositions[trigrams[i].trigram] = j
 		j++
 	}
-
-
-
 	return trigramsWithPositions
 }
 
